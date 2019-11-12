@@ -13,3 +13,26 @@ The data sets being used are from TMDB and GroupLens. It covers 45,000 movies, r
 Data Manipulation
 Exploratory analysis
 Predictor modeling
+
+## Links
+
+[Discussion about process](https://docs.google.com/document/d/1JCbUu9TrqDHDuz_BJtEVqMC1MJiGdhtbr3fyU9QkxhE/)
+
+### Jupyter start notebook
+
+```
+jupyter notebook --no-browser
+```
+
+### Jupyter notebook extensions
+
+1. Install Jupyter [notebook extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/)
+
+The *Table of Contents* extension called TOC2 which display the following table.
+
+![Table of contents](./images/movie_rating_predictions_table_of_contents.png)
+
+
+
+
+
