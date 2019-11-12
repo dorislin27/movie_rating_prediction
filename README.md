@@ -28,7 +28,7 @@ jupyter notebook --no-browser
 
 1. Install Jupyter [notebook extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/)
 
-The *Table of Contents* extension called TOC2 which display the following table.
+The *Table of Contents* extension called TOC2 displays the following table.
 
 ![Table of contents](./images/movie_rating_predictions_table_of_contents.png)
 
